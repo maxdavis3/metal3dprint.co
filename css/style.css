@@ -709,3 +709,17 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Titanium Grey ===== */
+:root {
+    --primary: #94a3b8;
+    --primary-dark: #64748b;
+    --accent: #7dd3fc;
+    --bg-dark: #090a0f;
+    --bg-darker: #050508;
+    --bg-card: #11121c;
+    --font-heading: 'Saira Condensed', sans-serif;
+    --font-body: 'Jost', sans-serif;
+}
+.site-header { background: rgba(9,10,15,0.85); }
+h1,h2,h3,h4,h5,h6 { letter-spacing:0.05em; }
